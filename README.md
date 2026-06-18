@@ -101,9 +101,8 @@ Microbiome-Dysbiosis-MetaAnalysis/
 │   ├── LEfSe/
 │   └── Machine_Learning/
 ├── workflow/
-│   └── pipeline_diagram.png
-└── docs/
-    └── project_report.pdf
+    └── pipeline_diagram.png
+
 ```
 
 
