@@ -84,21 +84,27 @@ The study integrates microbiome profiling, diversity analysis, differential abun
 ---
 
 ## Repository Structure
+
+```text
 Microbiome-Dysbiosis-MetaAnalysis/
 │
 ├── README.md
 ├── data/
+│   └── metadata.tsv
 ├── scripts/
-│ ├── Python/
-│ ├── R/
-│ └── Bash/
+│   ├── Python/
+│   ├── R/
+│   └── Bash/
 ├── results/
-│ ├── Figures/
-│ ├── Diversity_analysis/
-│ ├── LEfSe/
-│ └── Machine_learning/
+│   ├── Alpha_diversity/
+│   ├── Beta_diversity/
+│   ├── LEfSe/
+│   └── Machine_Learning/
+├── workflow/
+│   └── pipeline_diagram.png
 └── docs/
-└── project_report.pdf
+    └── project_report.pdf
+```
 
 
 ## Author
