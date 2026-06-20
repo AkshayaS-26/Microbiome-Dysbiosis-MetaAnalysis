@@ -90,7 +90,9 @@ Microbiome-Dysbiosis-MetaAnalysis/
 │
 ├── README.md
 ├── data/
-│   └── metadata.tsv
+│   └── Study_Metadata_Summary.tsv
+├── workflow/
+    └── pipeline_diagram.png
 ├── scripts/
 │   ├── Python/
 │   ├── R/
@@ -99,9 +101,8 @@ Microbiome-Dysbiosis-MetaAnalysis/
 │   ├── Alpha_diversity/
 │   ├── Beta_diversity/
 │   ├── LEfSe/
-│   └── Machine_Learning/
-├── workflow/
-    └── pipeline_diagram.png
+    └── Machine_Learning/
+
 
 ```
 
